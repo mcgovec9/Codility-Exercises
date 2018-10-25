@@ -20,6 +20,5 @@ public class BinaryGap {
         gap = Math.max(gap, counter);
         return gap;
     }
-    int i =1 ;
-
+    int i = 1;
 }
